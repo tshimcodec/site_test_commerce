@@ -28,3 +28,10 @@ body{
 	font-family: monospace;
 	color: #fff;
 }
+p{
+	text-align: center;
+	font-size: 1.6em;
+	font-family: "Arial";
+	color: #ac5402;
+	margin-top: 5%;
+}
